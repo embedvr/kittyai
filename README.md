@@ -1,2 +1,0 @@
-# kittyai
-discord cat ai
